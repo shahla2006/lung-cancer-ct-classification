@@ -1,0 +1,22 @@
+# Dataset and archives
+dataset/
+archive.zip
+*.zip
+
+# Model weights
+*.h5
+*.keras
+*.weights.h5
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
